@@ -12,5 +12,8 @@ public class Variables {
         // Final Variables
         final int num = 15;
         //num = 20; 
+
+        // Declare Many Variables
+        int x = 5, y = 6, z = 50;
     }
 }
